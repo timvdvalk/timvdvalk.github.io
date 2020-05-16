@@ -1,0 +1,22 @@
+name: "Tim van der Valk"
+output_dir: "."
+navbar:
+  title: "Tim van der Valk"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: "research.html"
+    - text: "Talks"
+      href: "talks.html"
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/tim-van-der-valk-7761475b/    
+    - icon: fa-graduation-cap
+      href: https://www.uu.nl/medewerkers/TvanderValk
+output:
+  html_document:
+    theme: flatly
+    css: 'styles.css'

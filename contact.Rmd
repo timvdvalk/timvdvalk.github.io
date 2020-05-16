@@ -1,0 +1,9 @@
+---
+---
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+### Contact details
+
+Please get in touch via t.vandervalk [at] uu [dot] nl
+
+<!-- You can find my LinkedIn and University page in the top right.  -->
