@@ -6,7 +6,7 @@ pagetitle: Research
 
 ### Research papers
 
-**[Quid pro quo: the institutional environment and the allocation of household wealth](http://dspace.library.uu.nl/handle/1874/394040)**
+**[Quid pro quo: the institutional environment and the allocation of household wealth](http://dspace.library.uu.nl/handle/1874/394040)** U.S.E. Research Institute Working Paper Series 19-25.
 
 What can account for the allocation of household wealth? In this paper I analyse the evolution of the French and Dutch household portfolio between 1963 and today. I employ a Financial Almost Ideal Demand System to estimate wealth and interest rate elasticities for five wealth classes: M1, Savings, Equity, Life-insurance and housing wealth. My main contribution is that I highlight the importance of the institutional environment for the allocation of household wealth. The liberalization wave of French finance in the 1980s is reflected in the estimated elasticities, which increase in size for those assets that became more widely available. Institutional change in the Netherlands was much more limited, which is reflected in the relative stability of the estimated interest and wealth elasticities.
 
