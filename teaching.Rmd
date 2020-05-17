@@ -1,0 +1,25 @@
+---
+pagetitle: Teaching
+---
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+### Teaching
+
+* Monetary Theory and Policy | BSc | Spring 2020
+
+* Thesis supervision | MSc | Spring 2019- present
+
+* Financial Markets and Institutions | BSc | Fall 2015 - present
+
+* Statistics | BSc | Spring 2019
+
+* Macroeconomics | BSc | Fall 2018
+
+* Mathematics for Economist | BSc | Fall 2014
+
+* Multidisciplinary Economics (history of economic though) | BSc | Fall 2014
+
+* Econometrics | BSc | Fall 2014
+
+
+
