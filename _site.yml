@@ -4,7 +4,7 @@ navbar:
   title: "Tim van der Valk"
   left:
     - text: "Home"
-      href: index.html
+      href: "index.html"
     - text: "Research"
       href: "research.html"
     - text: "Talks"
