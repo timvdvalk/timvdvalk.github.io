@@ -9,7 +9,7 @@ pagetitle: "Tim van der Valk"
 
 Welcome to my website! I'm a Postdoctoral Researcher at the Department of History and Art History, Utrecht University and Lecturer in Finance at Utrecht University School of Economics (U.S.E.). My interests are household finance, financial history and European financial integration. 
 
-In [my PhD](http://dspace.library.uu.nl/handle/1874/385176) I conducted a comparative case study of household financial behavior in France and the Netherlands from 1960 until today. I completed research visits to the Banque de France and De Nederlandsche Bank, and did consultancy work at the European Central Bank.  
+In [my PhD](http://dspace.library.uu.nl/handle/1874/385176) I conducted a comparative case study of the financial service provision to French and Dutch households from 1960 until today. I completed research visits to the Banque de France and De Nederlandsche Bank, and did consultancy work at the European Central Bank.  
 
 I'm currently working on household financial fragility over the 20th century and the evolution of household wealth between 1860 and today.
 
