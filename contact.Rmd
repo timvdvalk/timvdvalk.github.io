@@ -5,6 +5,6 @@ pagetitle: Contact
 
 ### Contact details
 
-Please get in touch via t.vandervalk [at] uu [dot] nl
+Please get in touch via timvdvalk [dot] work [at] gmail [dot] com
 
 <!-- You can find my LinkedIn and University page in the top right.  -->
