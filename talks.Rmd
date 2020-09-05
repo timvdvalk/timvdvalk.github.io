@@ -5,9 +5,9 @@ pagetitle: Talks
 
 ### Conferences and seminars
 
-* Finance and History Workshop, Radboud University Nijmegen (upcoming)
-
 * Datini-ESTER Advanced workshop, Istituto Internazionale di Storia Economica "F. Datini" (upcoming)
+
+* Finance and History Workshop, Radboud University Nijmegen
 
 * De Zichtbare Hand, Utrecht University (30-08-2019)
 
