@@ -4,7 +4,7 @@ pagetitle: "Tim van der Valk"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/photo_TV3.jpg" style="width:20%; border:1px solid; margin-right: 20px" align="left">
+<img src="images/photo_TV4.jpg" style="width:20%; border:1px solid; margin-right: 20px" align="left">
 
 
 Welcome to my website! I'm a policy officer at the Ministry of Finance with a focus on long-term care. My research interests are household finance, financial history and European financial integration. 
