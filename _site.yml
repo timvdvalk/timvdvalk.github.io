@@ -16,8 +16,6 @@ navbar:
       href: contact.html
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/tim-van-der-valk-7761475b/    
-    - icon: fa-graduation-cap
-      href: https://www.uu.nl/medewerkers/TvanderValk/
     - icon: fa-github fa-lg
       href: https://github.com/timvdvalk
 output:
